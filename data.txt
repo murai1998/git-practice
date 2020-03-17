@@ -1,4 +1,1 @@
-Name: Ironhack
-Age: 21
-Favorite Color: Red
-
+Hello
